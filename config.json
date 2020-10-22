@@ -1,6 +1,6 @@
 {
     "prefix": "/",
-    "token": "NzY2Nzk5MzU0MjgyMzc3MjM2.X4onjA.3RP8pdi2-Q03Yz7L8KukYQ5Ghyo",
+    "token": "BOT_TOKEN",
     "owners": ["520253275128332288"],
     "defaultPerms": ["SEND_MESSAGES"]
 }
