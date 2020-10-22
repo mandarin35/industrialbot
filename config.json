@@ -1,6 +1,5 @@
 {
     "prefix": "/",
-    "token": "token",
     "owners": ["520253275128332288"],
     "defaultPerms": ["SEND_MESSAGES"]
 }
