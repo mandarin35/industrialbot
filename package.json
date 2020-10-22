@@ -1,0 +1,23 @@
+{
+    "name": "IndustrialBot",
+    "version": "1.0.0",
+    "main": "src/index",
+    "author": "joker",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^7.11.0",
+        "eslint-config-tesseract": "^0.0.3"
+    },
+    "dependencies": {
+        "all": "^0.0.0",
+        "bitfield": "^3.0.0",
+        "diff": "^4.0.2",
+        "discord.js": "^12.3.1",
+        "event": "^1.0.0",
+        "figlet": "^1.5.0",
+        "glob": "^7.1.6",
+        "moment": "^2.29.1",
+        "path": "^0.12.7",
+        "util": "^0.12.3"
+    }
+}
